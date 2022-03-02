@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f24413f1-a682-4e14-86a5-15e7f5277969" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25hCs8cbJCUnIdtgKEC4Z6uHjGd" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/main/resources" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Desktop\Projects\oauth2\client\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ResourceServerApplication">
+    <configuration name="AuthServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="auth-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.authserver.AuthServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.client.ClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oauth2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="oauth2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.oauth2.Oauth2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResourceServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="resource-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.resourceserver.ResourceServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f24413f1-a682-4e14-86a5-15e7f5277969" name="Default Changelist" comment="" />
+      <created>1645970134268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645970134268</updated>
+      <workItem from="1645970139163" duration="6544000" />
+      <workItem from="1646009868547" duration="741000" />
+      <workItem from="1646023366872" duration="3333000" />
+      <workItem from="1646047933758" duration="13350000" />
+      <workItem from="1646095345060" duration="6033000" />
+      <workItem from="1646142695264" duration="5872000" />
+      <workItem from="1646229103746" duration="10588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1645972092754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="528" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1645972092754" />
+    <state width="1342" height="326" key="GridCell.Tab.0.bottom" timestamp="1646245357568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="326" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646245357568" />
+    <state width="1342" height="326" key="GridCell.Tab.0.center" timestamp="1646245357568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="326" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1646245357568" />
+    <state width="1342" height="326" key="GridCell.Tab.0.left" timestamp="1646245357568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="326" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1646245357568" />
+    <state width="1342" height="326" key="GridCell.Tab.0.right" timestamp="1646245357568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="326" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1646245357568" />
+    <state width="1342" height="326" key="GridCell.Tab.1.bottom" timestamp="1646245357568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="326" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646245357568" />
+    <state width="1342" height="326" key="GridCell.Tab.1.center" timestamp="1646245357568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="326" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1646245357568" />
+    <state width="1342" height="326" key="GridCell.Tab.1.left" timestamp="1646245357568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="326" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1646245357568" />
+    <state width="1342" height="326" key="GridCell.Tab.1.right" timestamp="1646245357568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="326" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1646245357568" />
+    <state width="1342" height="326" key="GridCell.Tab.2.bottom" timestamp="1646245357569">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="326" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646245357569" />
+    <state width="1342" height="326" key="GridCell.Tab.2.center" timestamp="1646245357568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="326" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1646245357568" />
+    <state width="1342" height="326" key="GridCell.Tab.2.left" timestamp="1646245357568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="326" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1646245357568" />
+    <state width="1342" height="326" key="GridCell.Tab.2.right" timestamp="1646245357569">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="326" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1646245357569" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1646234100478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1646234100478" />
+    <state x="229" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1646121780708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="229" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1646121780708" />
+    <state x="209" y="109" key="new project wizard" timestamp="1645970491946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="109" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1645970491946" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1646065178837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1646065178837" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1646243882809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1646243882809" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2.jar!/org/springframework/security/web/access/intercept/FilterSecurityInterceptor.class</url>
+          <line>34</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2.jar!/org/springframework/security/web/access/intercept/FilterSecurityInterceptor.class</url>
+          <line>61</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.6.2/spring-security-core-5.6.2.jar!/org/springframework/security/access/intercept/AbstractSecurityInterceptor.class</url>
+          <line>174</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.6.2/spring-security-core-5.6.2.jar!/org/springframework/security/access/intercept/AbstractSecurityInterceptor.class</url>
+          <line>144</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2.jar!/org/springframework/security/web/authentication/LoginUrlAuthenticationEntryPoint.class</url>
+          <line>55</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2.jar!/org/springframework/security/web/DefaultRedirectStrategy.class</url>
+          <line>30</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2.jar!/org/springframework/security/web/authentication/LoginUrlAuthenticationEntryPoint.class</url>
+          <line>66</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2.jar!/org/springframework/security/web/authentication/LoginUrlAuthenticationEntryPoint.class</url>
+          <line>57</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.6.2/spring-security-core-5.6.2.jar!/org/springframework/security/access/intercept/AbstractSecurityInterceptor.class</url>
+          <line>183</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2.jar!/org/springframework/security/web/access/ExceptionTranslationFilter.class</url>
+          <line>86</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2.jar!/org/springframework/security/web/authentication/DelegatingAuthenticationEntryPoint.class</url>
+          <line>48</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2.jar!/org/springframework/security/web/DefaultRedirectStrategy.class</url>
+          <line>24</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2.jar!/org/springframework/security/web/DefaultRedirectStrategy.class</url>
+          <line>35</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientAuthenticationProcessingFilter.class</url>
+          <line>66</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.class</url>
+          <line>81</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientContextFilter.class</url>
+          <line>74</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientContextFilter.class</url>
+          <line>88</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.class</url>
+          <line>86</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientAuthenticationProcessingFilter.class</url>
+          <line>74</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/client/OAuth2RestTemplate.class</url>
+          <line>130</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/client/OAuth2RestTemplate.class</url>
+          <line>171</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/client/token/grant/code/AuthorizationCodeAccessTokenProvider.class</url>
+          <line>147</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/client/token/OAuth2AccessTokenSupport.class</url>
+          <line>107</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/client/token/OAuth2AccessTokenSupport.class</url>
+          <line>116</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.16/spring-web-5.3.16.jar!/org/springframework/web/client/RestTemplate.class</url>
+          <line>462</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.16/spring-web-5.3.16.jar!/org/springframework/web/client/RestTemplate.class</url>
+          <line>467</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint.class</url>
+          <line>93</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.class</url>
+          <line>43</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2.jar!/org/springframework/security/web/authentication/SavedRequestAwareAuthenticationSuccessHandler.class</url>
+          <line>35</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint.class</url>
+          <line>102</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint.class</url>
+          <line>125</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.16/spring-web-5.3.16.jar!/org/springframework/web/client/HttpMessageConverterExtractor.class</url>
+          <line>59</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.16/spring-web-5.3.16.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.class</url>
+          <line>277</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.16/spring-web-5.3.16.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.class</url>
+          <line>270</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.16/spring-web-5.3.16.jar!/org/springframework/web/client/RestTemplate.class</url>
+          <line>469</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.16/spring-web-5.3.16.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.class</url>
+          <line>259</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
